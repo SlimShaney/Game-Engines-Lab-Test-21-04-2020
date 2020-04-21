@@ -8,8 +8,8 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="carScript.cs" t="Include" />
+          <e p="gameManagement.cs" t="Include" />
           <e p="lightscript.cs" t="Include" />
-          <e p="trafficLightInstantiator.cs" t="Include" />
         </e>
       </e>
       <e p="Game Engines Lab Test.sln" t="IncludeFlat" />
