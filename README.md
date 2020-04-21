@@ -6,7 +6,7 @@ Video of my completed project:
 
 
 <details>
-<summary>Lab Test Brief/Requirements
+<summary>Lab Test Brief/Requirements</summary>
  
 [![Video](http://img.youtube.com/vi/eM3jH7HW8pM/0.jpg)](http://www.youtube.com/watch?v=eM3jH7HW8pM)
 
